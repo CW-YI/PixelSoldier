@@ -18,6 +18,7 @@ public class Boss1ToTwoTransition : MonoBehaviour
         //Invoke("LoadScene", 6f);
         cut1.SetActive(true);
         StartCoroutine(ShowCuts());
+        //hi
     }
 
     IEnumerator ShowCuts()
