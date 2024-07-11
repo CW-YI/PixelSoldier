@@ -1,0 +1,4 @@
+repository "PixelSoldier_PandoraCube@PandoraCube_PixelSoldier@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Poison
+  - enemy
+  - Smoke
+  - PlatformBottom
+  - Platform
+  - Body
+  - Bullet
+  - BulletTwo
+  - WeakPoint
+  - Web
+  - MiniEnemy
+  - BulletOne
+  - Border
+  - Ground
+  - TopBorder
+  - Invincible Player
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Hole
+  - Water
+  - UI
+  - Platform
+  - Ground
+  - Player
+  - enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: enemy
+    uniqueID: 1620328539
+    locked: 0

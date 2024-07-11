@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 09fc6bc153868b645932f58200052fe6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rb: {instanceID: 0}
+  - boomPrefab: {fileID: 6647948203560001173, guid: 24aa33a3aa25f054b8896b2aa7625b49, type: 3}
+  - weakBoomPrefab: {fileID: 2233066221098455476, guid: 289bc537f50bb2441bcc47750627c486, type: 3}
+  - normalTargetHealth: {instanceID: 0}
+  - weaponSwitch: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
