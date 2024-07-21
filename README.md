@@ -42,7 +42,7 @@ unity scm을 사용해 개발 후, 깃허브에 업로드했습니다.<br>
     <td><img src="https://github.com/user-attachments/assets/0dfbf64e-53d9-4af5-bda3-b4a926ec56be" alt="ClearScreen" width="300"></td>
   </tr>
 </table>
-<h4> 보스1 플레이 화면 </h4>
+<h4> 보스1 패턴 화면 </h4>
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/0c7f5812-1610-465b-83ed-f9c9a76f97a7" alt="Boss1Pattern1" width="300"></td>
@@ -50,7 +50,7 @@ unity scm을 사용해 개발 후, 깃허브에 업로드했습니다.<br>
     <td><img src="https://github.com/user-attachments/assets/c55d6ade-b08f-4144-a35d-80bb8b1e24d2" alt="Boss1Pattern3" width="300"></td>
   </tr>
 </table>
-<h4> 보스2 플레이 화면 </h4>
+<h4> 보스2 패턴 화면 </h4>
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/59fc190a-fff3-488c-accc-ea4a7fadbd2d" alt="Boss2Pattern1" width="300"></td>
